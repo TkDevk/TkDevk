@@ -2,8 +2,8 @@
 # Welcome ;)
 #
 Welcome to my Github profile. it's currently under construction but don't worry about it's coming soon
-#
-<img align="center" alt="working" src="https://i.gifer.com/origin/b6/b67e26206c9bdb0749f34b40ada5b235_w200.gif"/>
+
+<img align="left" alt="working" src="https://i.gifer.com/origin/b6/b67e26206c9bdb0749f34b40ada5b235_w200.gif" style="padding-right:300px;"/>
 <!--
 **TkDevk/TkDevk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
