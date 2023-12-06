@@ -1,7 +1,7 @@
 Welcome to Duvan's Profile <p align="center"> <a href="https://www.github.com/TkDevk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p> 
 =============================================================================================================================
 
-<p align="center">Developer / Mechatronic Engineer</p>
+<h2 align="center">Developer / Mechatronic Engineer</h2>
 --------------------------------
 
 I'm currently enjoying the learning journey 👨‍💻, i really like how we can curve the technology in our favor to go forward and beyond.🌇
