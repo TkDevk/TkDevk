@@ -9,7 +9,6 @@
 I'm currently enjoying the learning journey 👨‍💻, i really like how we can curve the technology in our favor to go forward and beyond.🌇
 
 * 🌍  I'm based in Bogotá D.C.
-* ✉️  You can contact me at [duvanuriel@hotmail.com](mailto:duvanuriel@hotmail.com)
 * 🚀  I'm currently working on [ImageBoard Using React](https://github.com/TkDevk/Mini-microservice-Project-using-React)
 * 🧠  I'm learning React Js, JAVA, Tailwind Css
 * ⚡  I love my bycicle
